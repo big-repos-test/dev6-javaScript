@@ -6,6 +6,10 @@ module.exports = {
         targets: {
           esmodules: true
         }
+        
+        asdsad
+        adasdas
+        asdad
       }
     ]
   ]
